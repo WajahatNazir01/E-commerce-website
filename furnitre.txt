@@ -1,0 +1,1 @@
+Product Name: chair|Price: 10000.0|Quantity: 5|Discount: 10.0%|Description: used for sitting|Image: Image Selected: kidney_1-removebg-preview.png

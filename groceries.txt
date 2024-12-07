@@ -1,0 +1,6 @@
+Product Name: sugar|Price: 500.0|Quantity: 2|Discount: 0.0%|Description: used for sweetening|Image: Image Selected: sugar.jpg
+Product Name: sugar|Price: 500.0|Quantity: 2|Discount: 0.0%|Description: used for sweetening|Image: Image Selected: sugar.jpg
+Product Name: oil|Price: 29905.0|Quantity: 5|Discount: 20.0%|Description: used for cooking|Image: Image Selected: pexels-chevanon-photography-325044 (1).jpg
+Product Name: Wheat|Price: 5000.0|Quantity: 10|Discount: 10.0%|Description: used as most used grain|Image: Image Selected: oil.jpg
+Product Name: Wheat|Price: 5000.0|Quantity: 10|Discount: 10.0%|Description: used as most used grain|Image: Image Selected: oil.jpg
+Product Name: rice|Price: 1000.0|Quantity: 4|Discount: 0.0%|Description: used as second most used grain|Image: Image Selected: PORTFOLIO LOGO-Photoroom.png-Photoroom.png
