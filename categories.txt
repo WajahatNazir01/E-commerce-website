@@ -1,2 +1,2 @@
-groceries
-furnitre
+Groceries
+Clothing
